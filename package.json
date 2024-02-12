@@ -4,7 +4,6 @@
   "description": "JavaScript 3D library",
   "type": "module",
   "main": "./build/three.cjs",
-  "module": "./build/three.module.js",
   "exports": {
     ".": {
       "import": "./build/three.module.js",
